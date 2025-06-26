@@ -1,2 +1,3 @@
 # history
-historico de comandos shell
+Historico de comandos shell
+By Vini
